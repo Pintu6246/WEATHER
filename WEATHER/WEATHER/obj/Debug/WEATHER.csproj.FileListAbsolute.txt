@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\User\source\repos\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\User\source\repos\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\User\source\repos\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.Form1.resources
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\User\source\repos\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
